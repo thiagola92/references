@@ -18,17 +18,20 @@
 - Elasticsearch: https://www.elastic.co/
 - Firebase: https://firebase.google.com/
 - Meilisearch: https://www.meilisearch.com/
+  - Blog: https://blog.meilisearch.com/
 - MongoDB: https://www.mongodb.com/
 - MySQL: https://www.mysql.com/
 - Oracle: https://www.oracle.com/index.html
 - PostgreSQL: https://www.postgresql.org/
 - Redis: https://redis.io/
 - RethinkDB: https://rethinkdb.com/
+  - Blog: https://rethinkdb.com/blog
 - SQLite: https://www.sqlite.org/index.html
 
 # Game Engine
 - GameMaker: https://gamemaker.io/en/gamemaker
 - Godot: https://godotengine.org/
+  - Blog: https://godotengine.org/news/default/1
 - Love2D: https://love2d.org/
 - RPG Maker: https://www.rpgmakerweb.com/
 - Unity: https://unity.com/
