@@ -30,4 +30,7 @@
 # Version Control System
 - BitBucket: https://bitbucket.org/product
 - GitHub: https://github.com/
+  - Blog: https://github.blog/
+  - Blog: https://githubnext.com/
+  - Blog: https://github.com/readme
 - GitLab: https://about.gitlab.com/
