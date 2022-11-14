@@ -1,7 +1,3 @@
-# subjects-references
-- Não é uma lista global de referências, é apenas uma lista de softwares que me interessam dentro de um determinado assunto.  
-- Essa lista começou pois meu favoritos do navegador estava ficando muito cheia.  
-
 # Blockchain
 - Ethereum: https://www.ethereum.org/
 - Truffle: https://trufflesuite.com/
