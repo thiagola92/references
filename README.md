@@ -6,6 +6,7 @@ Repositório com diversas listas de referências.
 # lists
 - [Softwares](SOFTWARES.md)
   - Qualquer software que possa ser baixado e executado localmente
+  - Bibliotecas não contam como software para essa lista
 - [Services](SERVICES.md)
   - Qualquer serviço que **apenas** funcione numa máquina externa
   - Se você pode criar sua própria instância localmente, bote na lista de softwares
