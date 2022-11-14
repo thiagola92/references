@@ -67,6 +67,7 @@
 # Security
 - Bitwarden: https://bitwarden.com/
 - Truffle: https://trufflesecurity.com/
+  - Blog: https://trufflesecurity.com/blog/
 - Vault: https://www.vaultproject.io/
 
 # Remote Control
