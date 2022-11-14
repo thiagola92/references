@@ -76,6 +76,7 @@
 - Micro: https://micro-editor.github.io/
 - Neovim: https://neovim.io/
 - VSCode: https://code.visualstudio.com/
+  - Blog: https://code.visualstudio.com/blogs
 
 # Version Control System
 - Git: https://git-scm.com/
