@@ -7,29 +7,12 @@
 - Servo: https://servo.org/
 - WebKit: https://webkit.org/
 
-# CI/CD
-- GitHub Actions: https://docs.github.com/en/actions
-
-# Cloud
-- AWS: https://aws.amazon.com/
-- Fly: https://www.fly.io/
-- Glitch: https://glitch.com/
-- Google Cloud: https://cloud.google.com/
-- Heroku: https://dashboard.heroku.com/apps
-- Railway: https://railway.app/
-
 # Compiler
 - LLVM: https://llvm.org/
 
 # Container
 - Docker: https://www.docker.com/
 - Podman: https://podman.io/
-
-# Courses
-- Alura: https://www.alura.com.br/
-- edX: https://www.edx.org/
-- FreeCodeCamp: https://www.freecodecamp.org/
-- Udemy: https://www.udemy.com/
 
 # Database
 - Elasticsearch: https://www.elastic.co/
@@ -42,13 +25,6 @@
 - Redis: https://redis.io/
 - RethinkDB: https://rethinkdb.com/
 - SQLite: https://www.sqlite.org/index.html
-
-# Data Science
-- Kaggle: https://www.kaggle.com/
-
-# Domain
-- Google Domains: https://domains.google/
-- registro.br: https://registro.br/
 
 # Game Engine
 - GameMaker: https://gamemaker.io/en/gamemaker
@@ -76,9 +52,6 @@
 - Android: https://www.android.com/
 - Ionic: https://ionicframework.com/
 
-# Network:
-- ZeroTier: https://www.zerotier.com/pricing/
-
 # Operating System
 - Fedora: https://getfedora.org/
 - Ubuntu: https://ubuntu.com/
@@ -102,11 +75,8 @@
 - VSCode: https://code.visualstudio.com/
 
 # Version Control System
-- BitBucket: https://bitbucket.org/product
 - Git: https://git-scm.com/
 - Gitea: https://gitea.io/en-us/
-- GitHub: https://github.com/
-- GitLab: https://about.gitlab.com/
 
 # Virtual Machine
 - VirtualBox: https://www.virtualbox.org/
