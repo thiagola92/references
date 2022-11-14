@@ -4,4 +4,4 @@ Repositório com diversas listas de referências.
 - As listas foram criadas pois os favoritos do navegador estava ficando muito grande.  
 
 # lists
-- [Software](SOFTWARES.md)  
+- [Softwares](SOFTWARES.md)  
