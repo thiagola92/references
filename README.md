@@ -5,3 +5,4 @@ Repositório com diversas listas de referências.
 
 # lists
 - [Softwares](SOFTWARES.md)  
+- [Services](SERVICES.md)  
