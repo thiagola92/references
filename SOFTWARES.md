@@ -23,6 +23,8 @@
 # Database
 - Elasticsearch: https://www.elastic.co/
 - Firebase: https://firebase.google.com/
+- InfluxDB: https://www.influxdata.com/
+  - Blog: https://www.influxdata.com/blog/
 - Meilisearch: https://www.meilisearch.com/
   - Blog: https://blog.meilisearch.com/
 - MongoDB: https://www.mongodb.com/
