@@ -2,6 +2,12 @@
 - Ethereum: https://www.ethereum.org/
 - Truffle: https://trufflesuite.com/
 
+# Browser
+- Brave: https://brave.com/
+  - Blog: https://brave.com/blog/
+- Chrome: https://www.google.com/intl/en-US/chrome/
+  - Blog: https://blog.google/products/chrome/
+
 # Browser Engine
 - Gecko: https://developer.mozilla.org/en-US/docs/Glossary/Gecko
 - Servo: https://servo.org/
