@@ -1,4 +1,7 @@
-
+# Challenges
+- HackerRank: https://www.hackerrank.com/
+- LeetCode: https://leetcode.com/
+- Kaggle: https://www.kaggle.com/
 
 # CI/CD
 - GitHub Actions: https://docs.github.com/en/actions
@@ -16,9 +19,6 @@
 - edX: https://www.edx.org/
 - FreeCodeCamp: https://www.freecodecamp.org/
 - Udemy: https://www.udemy.com/
-
-# Data Science
-- Kaggle: https://www.kaggle.com/
 
 # Domain
 - Google Domains: https://domains.google/
