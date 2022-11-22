@@ -36,6 +36,10 @@
   - Blog: https://rethinkdb.com/blog
 - SQLite: https://www.sqlite.org/index.html
 
+# Database GUI
+- Beekeeper: https://www.beekeeperstudio.io/
+  - Blog: https://www.beekeeperstudio.io/blog
+
 # Game Engine
 - GameMaker: https://gamemaker.io/en/gamemaker
 - Godot: https://godotengine.org/
