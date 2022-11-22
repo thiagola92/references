@@ -4,6 +4,8 @@ Repositório com diversas listas de referências.
 - As listas foram criadas pois o navegador estava ficando com os favoritos muito grande.  
 
 # lists
+- [Knowledge](KNOWLEDGE.md)
+  - Materiais de estudo
 - [Softwares](SOFTWARES.md)
   - Qualquer software que possa ser baixado e executado localmente
 - [Services](SERVICES.md)
