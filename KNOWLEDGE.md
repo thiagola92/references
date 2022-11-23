@@ -12,6 +12,17 @@
 - Doc: https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection?retiredLocale=kab
 - Youtube: https://www.youtube.com/watch?v=NZHzgXFKfuY
 
+# Compiler
+- Wikipedia: https://en.wikipedia.org/wiki/Low-level_programming_language
+- Wikipedia: https://en.wikipedia.org/wiki/High-level_programming_language
+- Wikipedia: https://en.wikipedia.org/wiki/Computer_program
+- Wikipedia: https://en.wikipedia.org/wiki/Flex_(lexical_analyser_generator)
+- Wikipedia: https://en.wikipedia.org/wiki/GNU_Bison
+- Wikipedia: https://en.wikipedia.org/wiki/Order_of_operations#Programming_languages
+- Wikipedia: https://en.wikipedia.org/wiki/Parsing_expression_grammar
+- Wikipedia: https://en.wikipedia.org/wiki/Context-free_grammar
+- Wikipedia: https://en.wikipedia.org/wiki/Compiler
+
 # Browser
 - Blog: https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
 - Blog: https://joshondesign.com/2020/03/10/rust_minibrowser
