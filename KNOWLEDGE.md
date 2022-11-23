@@ -13,6 +13,7 @@
 - Youtube: https://www.youtube.com/watch?v=NZHzgXFKfuY
 
 # Compiler
+- Book: http://craftinginterpreters.com/
 - Wikipedia: https://en.wikipedia.org/wiki/Low-level_programming_language
 - Wikipedia: https://en.wikipedia.org/wiki/High-level_programming_language
 - Wikipedia: https://en.wikipedia.org/wiki/Computer_program
@@ -22,6 +23,10 @@
 - Wikipedia: https://en.wikipedia.org/wiki/Parsing_expression_grammar
 - Wikipedia: https://en.wikipedia.org/wiki/Context-free_grammar
 - Wikipedia: https://en.wikipedia.org/wiki/Compiler
+- Youtube: https://www.youtube.com/watch?v=QXjU9qTsYCc
+- Youtube: https://www.youtube.com/watch?v=54bo1qaHAfk
+- Youtube: https://www.youtube.com/watch?v=Ow7XXOmnNLo
+- Youtube: https://www.youtube.com/watch?v=eF9qWbuQLuw
 
 # Browser
 - Blog: https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
