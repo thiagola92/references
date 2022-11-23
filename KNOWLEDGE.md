@@ -1,3 +1,10 @@
+# Architecture
+- Blog: http://www.raymundodeoliveira.eng.br/binario.html
+- Wikipedia: https://en.wikipedia.org/wiki/IEEE_754-1985
+- Wikipedia: https://en.wikipedia.org/wiki/Two%27s_complement
+- Wikipedia: https://en.wikipedia.org/wiki/File_descriptor
+- Youtube: https://www.youtube.com/watch?v=89u1I1a9Qm4
+
 # Code Physic
 - Blog: http://www.jeffreythompson.org/collision-detection/table_of_contents.php
 - Blog: https://yal.cc/rectangle-circle-intersection-test/
