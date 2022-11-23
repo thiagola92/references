@@ -1,7 +1,8 @@
 # references
-Repositório com diversas listas de referências.
-- Não são listas referências globais, são apenas listas de referência que me interessam dentro de um determinado assunto.  
-- As listas foram criadas pois o navegador estava ficando com os favoritos muito grande.  
+Repositório com diversas listas de referências. Observações:
+- Não são listas referências globais, são apenas listas de referências que me interessam dentro de um determinado assunto.
+- Os favoritos do meu navegador estava ficando grande então criei estas listas para organizar as informações.
+  - Sim, eu organizava em pastas o máximo possível mas mesmo assim estava grande.
 
 # lists
 - [Knowledge](KNOWLEDGE.md)
