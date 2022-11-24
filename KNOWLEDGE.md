@@ -11,6 +11,7 @@
 - Book: https://natureofcode.com/book/introduction/
 - Doc: https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection?retiredLocale=kab
 - Youtube: https://www.youtube.com/watch?v=NZHzgXFKfuY
+- Youtube: https://www.youtube.com/@codingmath
 
 # Compiler
 - Book: http://craftinginterpreters.com/
