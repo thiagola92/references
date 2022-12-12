@@ -35,3 +35,6 @@
 - Wikipedia: https://en.wikipedia.org/wiki/Browser_engine
 - Wikipedia: https://en.wikipedia.org/wiki/Comparison_of_browser_engines
 - Wikipedia: https://en.wikipedia.org/wiki/Comparison_of_web_browsers
+
+# Operating System
+- Linux: https://linuxcommand.org/index.php
