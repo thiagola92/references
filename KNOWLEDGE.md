@@ -36,5 +36,8 @@
 - Wikipedia: https://en.wikipedia.org/wiki/Comparison_of_browser_engines
 - Wikipedia: https://en.wikipedia.org/wiki/Comparison_of_web_browsers
 
+# Operating System
+- Wikipedia: https://wiki.osdev.org/Main_Page
+
 # Shell
 - Book: https://linuxcommand.org/index.php
