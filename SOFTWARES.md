@@ -31,6 +31,7 @@
 - MySQL: https://www.mysql.com/
 - Oracle: https://www.oracle.com/index.html
 - PostgreSQL: https://www.postgresql.org/
+- QuestDB: https://questdb.io/
 - Redis: https://redis.io/
 - RethinkDB: https://rethinkdb.com/
   - Blog: https://rethinkdb.com/blog
