@@ -41,6 +41,10 @@
 - Beekeeper: https://www.beekeeperstudio.io/
   - Blog: https://www.beekeeperstudio.io/blog
 
+# Desktop Environment
+- Gnome: https://www.gnome.org/
+  - Blog: https://thisweek.gnome.org/
+
 # Game Engine
 - GameMaker: https://gamemaker.io/en/gamemaker
 - Godot: https://godotengine.org/
