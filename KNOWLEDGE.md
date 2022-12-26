@@ -1,3 +1,6 @@
+# Algorithms
+- Youtube: https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL
+
 # Architecture
 - Blog: http://www.raymundodeoliveira.eng.br/binario.html
 - Wikipedia: https://en.wikipedia.org/wiki/IEEE_754-1985
@@ -41,3 +44,6 @@
 
 # Shell
 - Book: https://linuxcommand.org/index.php
+
+# University
+- Book: https://www.doradolist.com/universities.html
