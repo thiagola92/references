@@ -81,6 +81,7 @@
 - Windows: https://www.microsoft.com/en-us/windows/
 
 # Package Manager
+- Apt: https://wiki.debian.org/Apt
 - Flatpak: https://flatpak.org/
 - Snap: https://snapcraft.io/
 
