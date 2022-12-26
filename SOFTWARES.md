@@ -75,6 +75,9 @@
 - Android: https://www.android.com/
 - Ionic: https://ionicframework.com/
 
+# Network
+- RabbitMQ: https://www.rabbitmq.com/
+
 # Operating System
 - Fedora: https://getfedora.org/
 - Ubuntu: https://ubuntu.com/
