@@ -1,6 +1,7 @@
 # \_General\_
 - Book: https://www.doradolist.com/universities.html
 - Book: https://github.com/EbookFoundation/free-programming-books
+- Youtube: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
 # Algorithms
 - Youtube: https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL
@@ -11,6 +12,9 @@
 - Wikipedia: https://en.wikipedia.org/wiki/Two%27s_complement
 - Wikipedia: https://en.wikipedia.org/wiki/File_descriptor
 - Youtube: https://www.youtube.com/watch?v=89u1I1a9Qm4
+
+# Artificial Intelligence
+- Youtube: https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
 
 # Browser
 - Blog: https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
