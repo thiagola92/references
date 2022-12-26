@@ -1,3 +1,5 @@
+**Remember**: Is a "software" if you can run local without internet
+
 # Blockchain
 - Ethereum: https://www.ethereum.org/
 - Truffle: https://trufflesuite.com/
@@ -24,7 +26,6 @@
 
 # Database
 - Elasticsearch: https://www.elastic.co/
-- Firebase: https://firebase.google.com/
 - InfluxDB: https://www.influxdata.com/
   - Blog: https://www.influxdata.com/blog/
 - Meilisearch: https://www.meilisearch.com/
