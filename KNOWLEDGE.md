@@ -28,8 +28,14 @@
 - Youtube: https://www.youtube.com/@codingmath
 
 # Compiler
+- Blog:
+  - https://godotengine.org/article/gdscript-progress-report-writing-tokenizer
+  - https://godotengine.org/article/gdscript-progress-report-writing-new-parser
+  - https://godotengine.org/article/gdscript-progress-report-type-checking-back
+  - https://godotengine.org/article/gdscript-progress-report-typed-instructions
 - Book: http://craftinginterpreters.com/
 - Book: https://www3.nd.edu/~dthain/compilerbook/
+- Paper: https://www.inf.ufrgs.br/~johann/comp/lexyacc.pdf
 - Wikipedia: https://en.wikipedia.org/wiki/Low-level_programming_language
 - Wikipedia: https://en.wikipedia.org/wiki/High-level_programming_language
 - Wikipedia: https://en.wikipedia.org/wiki/Computer_program
