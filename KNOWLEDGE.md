@@ -50,6 +50,9 @@
 - Youtube: https://www.youtube.com/watch?v=Ow7XXOmnNLo
 - Youtube: https://www.youtube.com/watch?v=eF9qWbuQLuw
 
+# Data Strctures
+- Youtube: https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX
+
 # Database
 - Wikipedia: https://en.wikipedia.org/wiki/Isolation_%28database_systems%29
 - Wikipedia: https://en.wikipedia.org/wiki/CAP_theorem
