@@ -53,6 +53,7 @@
 # Database
 - Wikipedia: https://en.wikipedia.org/wiki/Isolation_%28database_systems%29
 - Wikipedia: https://en.wikipedia.org/wiki/CAP_theorem
+- Youtube: https://www.youtube.com/watch?v=aZjYr87r1b8
 
 # Game
 - Book: https://gameprogrammingpatterns.com/contents.html
