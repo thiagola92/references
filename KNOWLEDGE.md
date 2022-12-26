@@ -29,6 +29,7 @@
 
 # Compiler
 - Book: http://craftinginterpreters.com/
+- Book: https://www3.nd.edu/~dthain/compilerbook/
 - Wikipedia: https://en.wikipedia.org/wiki/Low-level_programming_language
 - Wikipedia: https://en.wikipedia.org/wiki/High-level_programming_language
 - Wikipedia: https://en.wikipedia.org/wiki/Computer_program
