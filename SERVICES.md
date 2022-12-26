@@ -23,7 +23,6 @@
 - Udemy: https://www.udemy.com/
 
 # Database
-- BigQuery: 
 - Firebase: https://firebase.google.com/
 
 # Domain
