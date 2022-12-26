@@ -1,4 +1,4 @@
-**Remember**: Is a service if you can't run local without internet
+**Remember**: Is a "service" if you can't run local without internet
 
 # Challenges
 - HackerRank: https://www.hackerrank.com/
