@@ -1,3 +1,5 @@
+**Remember**: Is a service if you can't run local without internet
+
 # Challenges
 - HackerRank: https://www.hackerrank.com/
 - LeetCode: https://leetcode.com/
@@ -19,6 +21,10 @@
 - edX: https://www.edx.org/
 - FreeCodeCamp: https://www.freecodecamp.org/
 - Udemy: https://www.udemy.com/
+
+# Database
+- BigQuery: 
+- Firebase: https://firebase.google.com/
 
 # Domain
 - Google Domains: https://domains.google/
