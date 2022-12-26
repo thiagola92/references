@@ -61,6 +61,10 @@
 # Game
 - Book: https://gameprogrammingpatterns.com/contents.html
 
+# Network
+- Wikipedia: https://en.wikipedia.org/wiki/Open_Sound_Control
+- Wikipedia: https://en.wikipedia.org/wiki/MQTT
+
 # Operating System
 - Wikipedia: https://wiki.osdev.org/Main_Page
 - Stack Overflow: https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/
