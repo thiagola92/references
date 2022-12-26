@@ -1,3 +1,7 @@
+# _General_
+- Book: https://www.doradolist.com/universities.html
+- Book: https://github.com/EbookFoundation/free-programming-books
+
 # Algorithms
 - Youtube: https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL
 
@@ -47,6 +51,3 @@
 
 # Shell
 - Book: https://linuxcommand.org/index.php
-
-# University
-- Book: https://www.doradolist.com/universities.html
