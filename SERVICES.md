@@ -1,4 +1,4 @@
-**Remember**: Is a "service" if you can't run local without internet
+**Remember**: Is a "service" if it run in an external machine
 
 # Challenges
 - HackerRank: https://www.hackerrank.com/
