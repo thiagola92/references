@@ -1,4 +1,4 @@
-**Remember**: Is a "service" if it run in an external machine
+**Remember**: Is a "service" if it main function run in another machine
 
 # Challenges
 - HackerRank: https://www.hackerrank.com/
