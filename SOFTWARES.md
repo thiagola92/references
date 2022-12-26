@@ -14,6 +14,8 @@
 - WebKit: https://webkit.org/
 
 # Compiler
+- Bison: https://www.gnu.org/software/bison/
+- Lex and YACC: https://tldp.org/HOWTO/Lex-YACC-HOWTO.html
 - LLVM: https://llvm.org/
 
 # Container
