@@ -1,4 +1,4 @@
-**Remember**: Is a "software" if you can run local without internet
+**Remember**: Is a "software" if it run locally
 
 # Blockchain
 - Ethereum: https://www.ethereum.org/
