@@ -63,6 +63,7 @@
 
 # Operating System
 - Wikipedia: https://wiki.osdev.org/Main_Page
+- Stack Overflow: https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/
 
 # Shell
 - Book: https://linuxcommand.org/index.php
