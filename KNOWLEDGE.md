@@ -50,6 +50,10 @@
 - Youtube: https://www.youtube.com/watch?v=Ow7XXOmnNLo
 - Youtube: https://www.youtube.com/watch?v=eF9qWbuQLuw
 
+# Database
+- Wikipedia: https://en.wikipedia.org/wiki/Isolation_%28database_systems%29
+- Wikipedia: https://en.wikipedia.org/wiki/CAP_theorem
+
 # Game
 - Book: https://gameprogrammingpatterns.com/contents.html
 
