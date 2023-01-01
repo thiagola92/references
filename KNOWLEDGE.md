@@ -49,6 +49,8 @@
 - Wikipedia: https://en.wikipedia.org/wiki/Parsing_expression_grammar
 - Wikipedia: https://en.wikipedia.org/wiki/Context-free_grammar
 - Wikipedia: https://en.wikipedia.org/wiki/Compiler
+- Wikipedia: https://en.wikipedia.org/wiki/Just-in-time_compilation
+- Wikipedia: https://en.wikipedia.org/wiki/Ahead-of-time_compilation
 - Youtube: https://www.youtube.com/watch?v=QXjU9qTsYCc
 - Youtube: https://www.youtube.com/watch?v=54bo1qaHAfk
 - Youtube: https://www.youtube.com/watch?v=Ow7XXOmnNLo
