@@ -15,6 +15,7 @@
 - Google Cloud: https://cloud.google.com/
 - Heroku: https://dashboard.heroku.com/apps
 - Railway: https://railway.app/
+- Vercel: https://vercel.com/
 
 # Courses
 - Alura: https://www.alura.com.br/
