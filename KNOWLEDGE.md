@@ -12,6 +12,7 @@
 - Wikipedia: https://en.wikipedia.org/wiki/Two%27s_complement
 - Wikipedia: https://en.wikipedia.org/wiki/File_descriptor
 - Youtube: https://www.youtube.com/watch?v=89u1I1a9Qm4
+- Youtube: https://www.youtube.com/@mycodeschool/videos
 
 # Artificial Intelligence
 - Youtube: https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
