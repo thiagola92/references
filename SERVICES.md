@@ -8,7 +8,7 @@
 # CI/CD
 - GitHub Actions: https://docs.github.com/en/actions
 
-# Cloud
+# Cloud Computing
 - AWS: https://aws.amazon.com/
 - Fly: https://www.fly.io/
 - Glitch: https://glitch.com/
@@ -16,6 +16,14 @@
 - Heroku: https://dashboard.heroku.com/apps
 - Railway: https://railway.app/
 - Vercel: https://vercel.com/
+
+# Cloud Storage
+- Cozy: https://cozy.io/
+- Google Drive: https://www.google.com/intl/en-US/drive/
+- Murena: https://murena.io/
+- Nextcloud: https://nextcloud.com/
+- OneDrive: https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage
+- Proton: https://proton.me/
 
 # Courses
 - Alura: https://www.alura.com.br/
