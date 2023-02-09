@@ -20,6 +20,11 @@
 - Lex and YACC: https://tldp.org/HOWTO/Lex-YACC-HOWTO.html
 - LLVM: https://llvm.org/
 
+# Computer Graphic
+- GTK: https://gtk.org/
+- Qt: https://www.qt.io/
+- Skia: https://skia.org/
+
 # Container
 - Docker: https://www.docker.com/
 - Podman: https://podman.io/
