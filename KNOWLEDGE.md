@@ -74,6 +74,10 @@
   - https://www.youtube.com/watch?v=Ow7XXOmnNLo
   - https://www.youtube.com/watch?v=eF9qWbuQLuw
 
+# Computer Graphic
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Graphics_library
+
 # Data Strctures
 - Youtube
   - https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX
