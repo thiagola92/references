@@ -1,5 +1,3 @@
-**Remember**: Is a "software" if it main function run locally
-
 # Blockchain
 - Ethereum: https://www.ethereum.org/
 - Truffle: https://trufflesuite.com/
