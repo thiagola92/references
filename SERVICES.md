@@ -1,5 +1,3 @@
-**Remember**: Is a "service" if it main function run in another machine
-
 # Artificial Intelligence
 - Hugging Face: https://huggingface.co/
 
