@@ -64,7 +64,7 @@
 - registro.br
   - https://registro.br/
 
-# Network:
+# Network
 - ZeroTier
   - https://www.zerotier.com/pricing/
 

@@ -5,11 +5,11 @@ Repositório com diversas listas de referências. Observações:
   - Sim, eu organizava em pastas o máximo possível mas mesmo assim estava grande.
 
 # lists
-- [Knowledge](KNOWLEDGE.md)
+- [Knowledge](bookmarks/KNOWLEDGE.md)
   - Materiais de estudo
-- [Softwares](SOFTWARES.md)
+- [Softwares](bookmarks/SOFTWARES.md)
   - Qualquer software que possa ser baixado e executado localmente
-- [Services](SERVICES.md)
+- [Services](bookmarks/SERVICES.md)
   - Qualquer serviço que **apenas** funcione numa máquina externa
   - Se você pode criar sua própria instância localmente, bote na lista de softwares
 
