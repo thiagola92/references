@@ -3,6 +3,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 import requests
+from la_headers import generate_random_headers
 from parsel import Selector
 
 directory = Path("bookmarks")
@@ -107,7 +108,7 @@ def get_title(link: str) -> str:
     try:
         return (
             Selector(text=response.text)
-            .xpath("//head/title/text()")
+            .xpath("//title/text()")
             .get(urlparse(link).hostname)
         )
     except Exception as e:
