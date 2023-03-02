@@ -3,7 +3,6 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 import requests
-from la_headers import generate_random_headers
 from parsel import Selector
 
 directory = Path("bookmarks")
@@ -121,7 +120,7 @@ def write_bookmarks():
     html = ""
 
     for bookmarks, filename in read_bookmarks():
-        html += write_html([filename, bookmarks], -2)
+        html += write_html([filename] + bookmarks, 0)
 
     Path(f"output/bookmarks.html").write_text(html)
 
