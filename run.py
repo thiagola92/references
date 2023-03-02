@@ -1,19 +1,37 @@
+import json
 from pathlib import Path
 
 directory = Path("bookmarks")
 
 
-def read_files():
+def read_bookmarks():
     for file in directory.iterdir():
         text = file.read_text().replace("- ", "  - ").replace("#", "-")
         lines = [l for l in text.split("\n") if l.strip() != ""]
-        acc, _ = read_indentation(lines)
-        yield acc
+        bookmarks, _ = read_indentation(lines)
+        filename = file.stem
+
+        Path(f"output/{filename}.json").write_text(json.dumps(bookmarks, indent=2))
+
+        yield bookmarks, filename
 
 
 def read_indentation(
     lines: list[str], indentation: int = 0, i: int = 0
 ) -> list[list | str, int]:
+    """
+    LINK: List with one url inside
+        ["https://www.google.com"]
+    FOLDER: List where the first element is a List[str] and the others can be LINK/FOLDER
+        ["Folder name", ["https://google.com"], ["https://facebook.com"], ["https://youtube.com"]]
+
+    returns a List with everything found
+        [
+            ["First folder", ["https://google.com"], ["https://facebook.com"], ["https://youtube.com"]],
+            ["Second folder", ["https://instagram.com"]],
+            ["https://www.tiktok.com"]
+        ]
+    """
     acc = []
 
     while i < len(lines):
@@ -36,13 +54,54 @@ def get_indentation(line: str) -> int:
     return len(line) - len(line.lstrip())
 
 
-def is_link(line: str) -> bool:
-    return "- http" in line
-
-
 def remove_prefix(line: str) -> str:
     return line.strip().removeprefix("#").removeprefix("-").strip()
 
 
-for f in read_files():
-    print(f)
+def write_html(bookmarks: list | str, spaces: int):
+    if isinstance(bookmarks, str):
+        if bookmarks.startswith("http"):
+            return write_html_link(bookmarks, spaces)
+        return write_html_folder_start(bookmarks, spaces)
+
+    if contains_one_link(bookmarks):
+        return write_html(bookmarks[0], spaces + 1)
+
+    return write_html_folder_end(bookmarks, spaces + 1)
+
+
+def write_html_link(link: str, spaces: int):
+    return indent(f'<DT><A HREF="{link}">WhatsApp</A>\n', spaces)
+
+
+def write_html_folder_start(name: str, spaces: int):
+    line1 = indent(f"<DT><H3>{name}</H3>\n", spaces)
+    line2 = indent("<DL><p>\n", spaces)
+    return line1 + line2
+
+
+def write_html_folder_end(folders: list, spaces: int):
+    content = "".join([write_html(f, spaces) for f in folders])
+    ending = indent("</DL><p>\n", spaces)
+    return content + ending
+
+
+def contains_one_link(bookmarks: list[list | str]):
+    """Check if follows the LINK pattern"""
+    return len(bookmarks) == 1 and bookmarks[0].startswith("http")
+
+
+def indent(text: str, spaces: int):
+    return ("    " * max(spaces, 0)) + text
+
+
+def write_bookmarks():
+    html = ""
+
+    for bookmarks, filename in read_bookmarks():
+        html += write_html([filename, bookmarks], -2)
+
+    Path(f"output/bookmarks.html").write_text(html)
+
+
+write_bookmarks()
