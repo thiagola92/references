@@ -1,5 +1,9 @@
 import json
 from pathlib import Path
+from urllib.parse import urlparse
+
+import requests
+from parsel import Selector
 
 directory = Path("bookmarks")
 
@@ -58,7 +62,7 @@ def remove_prefix(line: str) -> str:
     return line.strip().removeprefix("#").removeprefix("-").strip()
 
 
-def write_html(bookmarks: list | str, spaces: int):
+def write_html(bookmarks: list | str, spaces: int) -> str:
     if isinstance(bookmarks, str):
         if bookmarks.startswith("http"):
             return write_html_link(bookmarks, spaces)
@@ -70,17 +74,18 @@ def write_html(bookmarks: list | str, spaces: int):
     return write_html_folder_end(bookmarks, spaces + 1)
 
 
-def write_html_link(link: str, spaces: int):
-    return indent(f'<DT><A HREF="{link}">WhatsApp</A>\n', spaces)
+def write_html_link(link: str, spaces: int) -> str:
+    title = get_title(link)
+    return indent(f'<DT><A HREF="{link}">{title}</A>\n', spaces)
 
 
-def write_html_folder_start(name: str, spaces: int):
+def write_html_folder_start(name: str, spaces: int) -> str:
     line1 = indent(f"<DT><H3>{name}</H3>\n", spaces)
     line2 = indent("<DL><p>\n", spaces)
     return line1 + line2
 
 
-def write_html_folder_end(folders: list, spaces: int):
+def write_html_folder_end(folders: list, spaces: int) -> str:
     content = "".join([write_html(f, spaces) for f in folders])
     ending = indent("</DL><p>\n", spaces)
     return content + ending
@@ -91,8 +96,24 @@ def contains_one_link(bookmarks: list[list | str]):
     return len(bookmarks) == 1 and bookmarks[0].startswith("http")
 
 
-def indent(text: str, spaces: int):
+def indent(text: str, spaces: int) -> str:
     return ("    " * max(spaces, 0)) + text
+
+
+def get_title(link: str) -> str:
+    print(link)
+    response = requests.get(link)
+
+    try:
+        return (
+            Selector(text=response.text)
+            .xpath("//head/title/text()")
+            .get(urlparse(link).hostname)
+        )
+    except Exception as e:
+        print(e)
+
+    return urlparse(link).hostname
 
 
 def write_bookmarks():
