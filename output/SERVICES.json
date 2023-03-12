@@ -2,217 +2,217 @@
   [
     "Artificial Intelligence",
     [
-      "Hugging Face",
-      [
-        "https://huggingface.co/"
-      ]
+      "Hugging Face"
+    ],
+    [
+      "https://huggingface.co/"
     ]
   ],
   [
     "Challenges",
     [
-      "HackerRank",
-      [
-        "https://www.hackerrank.com/"
-      ]
+      "HackerRank"
     ],
     [
-      "LeetCode",
-      [
-        "https://leetcode.com/"
-      ]
+      "https://www.hackerrank.com/"
     ],
     [
-      "Kaggle",
-      [
-        "https://www.kaggle.com/"
-      ]
+      "LeetCode"
+    ],
+    [
+      "https://leetcode.com/"
+    ],
+    [
+      "Kaggle"
+    ],
+    [
+      "https://www.kaggle.com/"
     ]
   ],
   [
     "CI/CD",
     [
-      "GitHub Actions",
-      [
-        "https://docs.github.com/en/actions"
-      ]
+      "GitHub Actions"
+    ],
+    [
+      "https://docs.github.com/en/actions"
     ]
   ],
   [
     "Cloud Computing",
     [
-      "AWS",
-      [
-        "https://aws.amazon.com/"
-      ]
+      "AWS"
     ],
     [
-      "Fly",
-      [
-        "https://www.fly.io/"
-      ]
+      "https://aws.amazon.com/"
     ],
     [
-      "Glitch",
-      [
-        "https://glitch.com/"
-      ]
+      "Fly"
     ],
     [
-      "Google Cloud",
-      [
-        "https://cloud.google.com/"
-      ]
+      "https://www.fly.io/"
     ],
     [
-      "Heroku",
-      [
-        "https://dashboard.heroku.com/apps"
-      ]
+      "Glitch"
     ],
     [
-      "Railway",
-      [
-        "https://railway.app/"
-      ]
+      "https://glitch.com/"
     ],
     [
-      "Vercel",
-      [
-        "https://vercel.com/"
-      ]
+      "Google Cloud"
+    ],
+    [
+      "https://cloud.google.com/"
+    ],
+    [
+      "Heroku"
+    ],
+    [
+      "https://dashboard.heroku.com/apps"
+    ],
+    [
+      "Railway"
+    ],
+    [
+      "https://railway.app/"
+    ],
+    [
+      "Vercel"
+    ],
+    [
+      "https://vercel.com/"
     ]
   ],
   [
     "Cloud Storage",
     [
-      "Cozy",
-      [
-        "https://cozy.io/"
-      ]
+      "Cozy"
     ],
     [
-      "Google Drive",
-      [
-        "https://www.google.com/intl/en-US/drive/"
-      ]
+      "https://cozy.io/"
     ],
     [
-      "Murena",
-      [
-        "https://murena.io/"
-      ]
+      "Google Drive"
     ],
     [
-      "Nextcloud",
-      [
-        "https://nextcloud.com/"
-      ]
+      "https://www.google.com/intl/en-US/drive/"
     ],
     [
-      "OneDrive",
-      [
-        "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage"
-      ]
+      "Murena"
     ],
     [
-      "Proton",
-      [
-        "https://proton.me/"
-      ]
+      "https://murena.io/"
+    ],
+    [
+      "Nextcloud"
+    ],
+    [
+      "https://nextcloud.com/"
+    ],
+    [
+      "OneDrive"
+    ],
+    [
+      "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage"
+    ],
+    [
+      "Proton"
+    ],
+    [
+      "https://proton.me/"
     ]
   ],
   [
     "Courses",
     [
-      "Alura",
-      [
-        "https://www.alura.com.br/"
-      ]
+      "Alura"
     ],
     [
-      "edX",
-      [
-        "https://www.edx.org/"
-      ]
+      "https://www.alura.com.br/"
     ],
     [
-      "FreeCodeCamp",
-      [
-        "https://www.freecodecamp.org/"
-      ]
+      "edX"
     ],
     [
-      "Udemy",
-      [
-        "https://www.udemy.com/"
-      ]
+      "https://www.edx.org/"
+    ],
+    [
+      "FreeCodeCamp"
+    ],
+    [
+      "https://www.freecodecamp.org/"
+    ],
+    [
+      "Udemy"
+    ],
+    [
+      "https://www.udemy.com/"
     ]
   ],
   [
     "Database",
     [
-      "Firebase",
-      [
-        "https://firebase.google.com/"
-      ]
+      "Firebase"
+    ],
+    [
+      "https://firebase.google.com/"
     ]
   ],
   [
     "Domain",
     [
-      "Google Domains",
-      [
-        "https://domains.google/"
-      ]
+      "Google Domains"
     ],
     [
-      "registro.br",
-      [
-        "https://registro.br/"
-      ]
+      "https://domains.google/"
+    ],
+    [
+      "registro.br"
+    ],
+    [
+      "https://registro.br/"
     ]
   ],
   [
     "Network",
     [
-      "ZeroTier",
-      [
-        "https://www.zerotier.com/pricing/"
-      ]
+      "ZeroTier"
+    ],
+    [
+      "https://www.zerotier.com/pricing/"
     ]
   ],
   [
     "Version Control System",
     [
-      "BitBucket",
-      [
-        "https://bitbucket.org/product"
-      ]
+      "BitBucket"
     ],
     [
-      "GitHub",
+      "https://bitbucket.org/product"
+    ],
+    [
+      "GitHub"
+    ],
+    [
+      "https://github.com/"
+    ],
+    [
+      "Blog",
       [
-        "https://github.com/"
+        "https://github.blog/"
       ],
       [
-        "Blog",
-        [
-          "https://github.blog/"
-        ],
-        [
-          "https://githubnext.com/"
-        ],
-        [
-          "https://github.com/readme"
-        ]
+        "https://githubnext.com/"
+      ],
+      [
+        "https://github.com/readme"
       ]
     ],
     [
-      "GitLab",
-      [
-        "https://about.gitlab.com/"
-      ]
+      "GitLab"
+    ],
+    [
+      "https://about.gitlab.com/"
     ]
   ]
 ]

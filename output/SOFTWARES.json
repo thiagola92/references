@@ -2,493 +2,493 @@
   [
     "Blockchain",
     [
-      "Ethereum",
-      [
-        "https://www.ethereum.org/"
-      ]
+      "Ethereum"
     ],
     [
-      "Truffle",
-      [
-        "https://trufflesuite.com/"
-      ]
+      "https://www.ethereum.org/"
+    ],
+    [
+      "Truffle"
+    ],
+    [
+      "https://trufflesuite.com/"
     ]
   ],
   [
     "Browser",
     [
-      "Brave",
+      "Brave"
+    ],
+    [
+      "https://brave.com/"
+    ],
+    [
+      "Blog",
       [
-        "https://brave.com/"
-      ],
-      [
-        "Blog",
-        [
-          "https://brave.com/blog/"
-        ]
+        "https://brave.com/blog/"
       ]
     ],
     [
-      "Chrome",
+      "Chrome"
+    ],
+    [
+      "https://www.google.com/intl/en-US/chrome/"
+    ],
+    [
+      "Blog",
       [
-        "https://www.google.com/intl/en-US/chrome/"
-      ],
-      [
-        "Blog",
-        [
-          "https://blog.google/products/chrome/"
-        ]
+        "https://blog.google/products/chrome/"
       ]
     ]
   ],
   [
     "Browser Engine",
     [
-      "Gecko",
-      [
-        "https://developer.mozilla.org/en-US/docs/Glossary/Gecko"
-      ]
+      "Gecko"
     ],
     [
-      "Servo",
-      [
-        "https://servo.org/"
-      ]
+      "https://developer.mozilla.org/en-US/docs/Glossary/Gecko"
     ],
     [
-      "WebKit",
-      [
-        "https://webkit.org/"
-      ]
+      "Servo"
+    ],
+    [
+      "https://servo.org/"
+    ],
+    [
+      "WebKit"
+    ],
+    [
+      "https://webkit.org/"
     ]
   ],
   [
     "Compiler",
     [
-      "Bison",
-      [
-        "https://www.gnu.org/software/bison/"
-      ]
+      "Bison"
     ],
     [
-      "Lex and YACC",
-      [
-        "https://tldp.org/HOWTO/Lex-YACC-HOWTO.html"
-      ]
+      "https://www.gnu.org/software/bison/"
     ],
     [
-      "LLVM",
-      [
-        "https://llvm.org/"
-      ]
+      "Lex and YACC"
+    ],
+    [
+      "https://tldp.org/HOWTO/Lex-YACC-HOWTO.html"
+    ],
+    [
+      "LLVM"
+    ],
+    [
+      "https://llvm.org/"
     ]
   ],
   [
     "Computer Graphic",
     [
-      "GTK",
-      [
-        "https://gtk.org/"
-      ]
+      "GTK"
     ],
     [
-      "Qt",
-      [
-        "https://www.qt.io/"
-      ]
+      "https://gtk.org/"
     ],
     [
-      "Skia",
-      [
-        "https://skia.org/"
-      ]
+      "Qt"
+    ],
+    [
+      "https://www.qt.io/"
+    ],
+    [
+      "Skia"
+    ],
+    [
+      "https://skia.org/"
     ]
   ],
   [
     "Container",
     [
-      "Docker",
-      [
-        "https://www.docker.com/"
-      ]
+      "Docker"
     ],
     [
-      "Podman",
-      [
-        "https://podman.io/"
-      ]
+      "https://www.docker.com/"
+    ],
+    [
+      "Podman"
+    ],
+    [
+      "https://podman.io/"
     ]
   ],
   [
     "Database",
     [
-      "Elasticsearch",
+      "Elasticsearch"
+    ],
+    [
+      "https://www.elastic.co/"
+    ],
+    [
+      "InfluxDB"
+    ],
+    [
+      "https://www.influxdata.com/"
+    ],
+    [
+      "Blog",
       [
-        "https://www.elastic.co/"
+        "https://www.influxdata.com/blog/"
       ]
     ],
     [
-      "InfluxDB",
+      "Meilisearch"
+    ],
+    [
+      "https://www.meilisearch.com/"
+    ],
+    [
+      "Blog",
       [
-        "https://www.influxdata.com/"
-      ],
-      [
-        "Blog",
-        [
-          "https://www.influxdata.com/blog/"
-        ]
+        "https://blog.meilisearch.com/"
       ]
     ],
     [
-      "Meilisearch",
+      "MongoDB"
+    ],
+    [
+      "https://www.mongodb.com/"
+    ],
+    [
+      "MySQL"
+    ],
+    [
+      "https://www.mysql.com/"
+    ],
+    [
+      "Oracle"
+    ],
+    [
+      "https://www.oracle.com/index.html"
+    ],
+    [
+      "PostgreSQL"
+    ],
+    [
+      "https://www.postgresql.org/"
+    ],
+    [
+      "QuestDB"
+    ],
+    [
+      "https://questdb.io/"
+    ],
+    [
+      "Redis"
+    ],
+    [
+      "https://redis.io/"
+    ],
+    [
+      "RethinkDB"
+    ],
+    [
+      "https://rethinkdb.com/"
+    ],
+    [
+      "Blog",
       [
-        "https://www.meilisearch.com/"
-      ],
-      [
-        "Blog",
-        [
-          "https://blog.meilisearch.com/"
-        ]
+        "https://rethinkdb.com/blog"
       ]
     ],
     [
-      "MongoDB",
-      [
-        "https://www.mongodb.com/"
-      ]
+      "SQLite"
     ],
     [
-      "MySQL",
-      [
-        "https://www.mysql.com/"
-      ]
-    ],
-    [
-      "Oracle",
-      [
-        "https://www.oracle.com/index.html"
-      ]
-    ],
-    [
-      "PostgreSQL",
-      [
-        "https://www.postgresql.org/"
-      ]
-    ],
-    [
-      "QuestDB",
-      [
-        "https://questdb.io/"
-      ]
-    ],
-    [
-      "Redis",
-      [
-        "https://redis.io/"
-      ]
-    ],
-    [
-      "RethinkDB",
-      [
-        "https://rethinkdb.com/"
-      ],
-      [
-        "Blog",
-        [
-          "https://rethinkdb.com/blog"
-        ]
-      ]
-    ],
-    [
-      "SQLite",
-      [
-        "https://www.sqlite.org/index.html"
-      ]
+      "https://www.sqlite.org/index.html"
     ]
   ],
   [
     "Database GUI",
     [
-      "Beekeeper",
+      "Beekeeper"
+    ],
+    [
+      "https://www.beekeeperstudio.io/"
+    ],
+    [
+      "Blog",
       [
-        "https://www.beekeeperstudio.io/"
-      ],
-      [
-        "Blog",
-        [
-          "https://www.beekeeperstudio.io/blog"
-        ]
+        "https://www.beekeeperstudio.io/blog"
       ]
     ]
   ],
   [
     "Desktop Environment",
     [
-      "Gnome",
+      "Gnome"
+    ],
+    [
+      "https://www.gnome.org/"
+    ],
+    [
+      "Blog",
       [
-        "https://www.gnome.org/"
-      ],
-      [
-        "Blog",
-        [
-          "https://thisweek.gnome.org/"
-        ]
+        "https://thisweek.gnome.org/"
       ]
     ]
   ],
   [
     "Game Engine",
     [
-      "GameMaker",
+      "GameMaker"
+    ],
+    [
+      "https://gamemaker.io/en/gamemaker"
+    ],
+    [
+      "Godot"
+    ],
+    [
+      "https://godotengine.org/"
+    ],
+    [
+      "Blog",
       [
-        "https://gamemaker.io/en/gamemaker"
+        "https://godotengine.org/news/default/1"
       ]
     ],
     [
-      "Godot",
-      [
-        "https://godotengine.org/"
-      ],
-      [
-        "Blog",
-        [
-          "https://godotengine.org/news/default/1"
-        ]
-      ]
+      "Love2D"
     ],
     [
-      "Love2D",
-      [
-        "https://love2d.org/"
-      ]
+      "https://love2d.org/"
     ],
     [
-      "RPG Maker",
-      [
-        "https://www.rpgmakerweb.com/"
-      ]
+      "RPG Maker"
     ],
     [
-      "Unity",
-      [
-        "https://unity.com/"
-      ]
+      "https://www.rpgmakerweb.com/"
     ],
     [
-      "Unreal",
-      [
-        "https://www.unrealengine.com/en-US"
-      ]
+      "Unity"
+    ],
+    [
+      "https://unity.com/"
+    ],
+    [
+      "Unreal"
+    ],
+    [
+      "https://www.unrealengine.com/en-US"
     ]
   ],
   [
     "IDE",
     [
-      "Arduino IDE",
-      [
-        "https://www.arduino.cc/en/software"
-      ]
+      "Arduino IDE"
     ],
     [
-      "Eclipse",
-      [
-        "https://www.eclipse.org/"
-      ]
+      "https://www.arduino.cc/en/software"
     ],
     [
-      "JetBrains",
-      [
-        "https://www.jetbrains.com/rider/"
-      ]
+      "Eclipse"
     ],
     [
-      "Jupyter",
-      [
-        "https://jupyter.org/"
-      ]
+      "https://www.eclipse.org/"
     ],
     [
-      "Processing",
-      [
-        "https://processing.org/"
-      ]
+      "JetBrains"
     ],
     [
-      "Remix",
-      [
-        "https://remix.ethereum.org/"
-      ]
+      "https://www.jetbrains.com/rider/"
+    ],
+    [
+      "Jupyter"
+    ],
+    [
+      "https://jupyter.org/"
+    ],
+    [
+      "Processing"
+    ],
+    [
+      "https://processing.org/"
+    ],
+    [
+      "Remix"
+    ],
+    [
+      "https://remix.ethereum.org/"
     ]
   ],
   [
     "Infrastructure",
     [
-      "Terraform",
-      [
-        "https://www.terraform.io/"
-      ]
+      "Terraform"
+    ],
+    [
+      "https://www.terraform.io/"
     ]
   ],
   [
     "Kernel",
     [
-      "Linux",
-      [
-        "https://www.kernel.org/"
-      ]
+      "Linux"
+    ],
+    [
+      "https://www.kernel.org/"
     ]
   ],
   [
     "Mobile",
     [
-      "Android",
-      [
-        "https://www.android.com/"
-      ]
+      "Android"
     ],
     [
-      "Ionic",
-      [
-        "https://ionicframework.com/"
-      ]
+      "https://www.android.com/"
+    ],
+    [
+      "Ionic"
+    ],
+    [
+      "https://ionicframework.com/"
     ]
   ],
   [
     "Network",
     [
-      "RabbitMQ",
-      [
-        "https://www.rabbitmq.com/"
-      ]
+      "RabbitMQ"
+    ],
+    [
+      "https://www.rabbitmq.com/"
     ]
   ],
   [
     "Operating System",
     [
-      "Fedora",
-      [
-        "https://getfedora.org/"
-      ]
+      "Fedora"
     ],
     [
-      "Ubuntu",
-      [
-        "https://ubuntu.com/"
-      ]
+      "https://getfedora.org/"
     ],
     [
-      "Windows",
-      [
-        "https://www.microsoft.com/en-us/windows/"
-      ]
+      "Ubuntu"
+    ],
+    [
+      "https://ubuntu.com/"
+    ],
+    [
+      "Windows"
+    ],
+    [
+      "https://www.microsoft.com/en-us/windows/"
     ]
   ],
   [
     "Package Manager",
     [
-      "Apt",
-      [
-        "https://wiki.debian.org/Apt"
-      ]
+      "Apt"
     ],
     [
-      "Flatpak",
-      [
-        "https://flatpak.org/"
-      ]
+      "https://wiki.debian.org/Apt"
     ],
     [
-      "Snap",
-      [
-        "https://snapcraft.io/"
-      ]
+      "Flatpak"
+    ],
+    [
+      "https://flatpak.org/"
+    ],
+    [
+      "Snap"
+    ],
+    [
+      "https://snapcraft.io/"
     ]
   ],
   [
     "Security",
     [
-      "Bitwarden",
+      "Bitwarden"
+    ],
+    [
+      "https://bitwarden.com/"
+    ],
+    [
+      "Truffle"
+    ],
+    [
+      "https://trufflesecurity.com/"
+    ],
+    [
+      "Blog",
       [
-        "https://bitwarden.com/"
+        "https://trufflesecurity.com/blog/"
       ]
     ],
     [
-      "Truffle",
-      [
-        "https://trufflesecurity.com/"
-      ],
-      [
-        "Blog",
-        [
-          "https://trufflesecurity.com/blog/"
-        ]
-      ]
+      "Vault"
     ],
     [
-      "Vault",
-      [
-        "https://www.vaultproject.io/"
-      ]
+      "https://www.vaultproject.io/"
     ]
   ],
   [
     "Remote Control",
     [
-      "Remmina",
-      [
-        "https://remmina.org/"
-      ]
+      "Remmina"
+    ],
+    [
+      "https://remmina.org/"
     ]
   ],
   [
     "Text Editor",
     [
-      "Micro",
-      [
-        "https://micro-editor.github.io/"
-      ]
+      "Micro"
     ],
     [
-      "Neovim",
-      [
-        "https://neovim.io/"
-      ]
+      "https://micro-editor.github.io/"
     ],
     [
-      "VSCode",
+      "Neovim"
+    ],
+    [
+      "https://neovim.io/"
+    ],
+    [
+      "VSCode"
+    ],
+    [
+      "https://code.visualstudio.com/"
+    ],
+    [
+      "Blog",
       [
-        "https://code.visualstudio.com/"
-      ],
-      [
-        "Blog",
-        [
-          "https://code.visualstudio.com/blogs"
-        ]
+        "https://code.visualstudio.com/blogs"
       ]
     ]
   ],
   [
     "Version Control System",
     [
-      "Git",
-      [
-        "https://git-scm.com/"
-      ]
+      "Git"
     ],
     [
-      "Gitea",
-      [
-        "https://gitea.io/en-us/"
-      ]
+      "https://git-scm.com/"
+    ],
+    [
+      "Gitea"
+    ],
+    [
+      "https://gitea.io/en-us/"
     ]
   ],
   [
     "Virtual Machine",
     [
-      "VirtualBox",
-      [
-        "https://www.virtualbox.org/"
-      ]
+      "VirtualBox"
+    ],
+    [
+      "https://www.virtualbox.org/"
     ]
   ]
 ]
