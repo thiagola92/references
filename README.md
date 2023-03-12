@@ -12,8 +12,3 @@ Repositório com diversas listas de referências. Observações:
 - [Services](bookmarks/SERVICES.md)
   - Qualquer serviço que **apenas** funcione numa máquina externa
   - Se você pode criar sua própria instância localmente, bote na lista de softwares
-
-# undefined
-- Programming languages rank
-  - https://pypl.github.io/PYPL.html
-  - https://www.tiobe.com/tiobe-index/
