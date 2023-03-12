@@ -113,18 +113,17 @@
 - Q&A
   - https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/
 
-# Programming Language
+# Programming Paradigm
 - Encyclopedia
-  - Programming Paradigm
-    - https://en.wikipedia.org/wiki/Programming_paradigm
-    - https://en.wikipedia.org/wiki/Imperative_programming
-    - https://en.wikipedia.org/wiki/Procedural_programming
-    - https://en.wikipedia.org/wiki/Object-oriented_programming
-    - https://en.wikipedia.org/wiki/Declarative_programming
-    - https://en.wikipedia.org/wiki/Functional_programming
-    - https://en.wikipedia.org/wiki/Logic_programming
-    - https://en.wikipedia.org/wiki/Mathematical_optimization
-    - https://en.wikipedia.org/wiki/Reactive_programming
+  - https://en.wikipedia.org/wiki/Programming_paradigm
+  - https://en.wikipedia.org/wiki/Imperative_programming
+  - https://en.wikipedia.org/wiki/Procedural_programming
+  - https://en.wikipedia.org/wiki/Object-oriented_programming
+  - https://en.wikipedia.org/wiki/Declarative_programming
+  - https://en.wikipedia.org/wiki/Functional_programming
+  - https://en.wikipedia.org/wiki/Logic_programming
+  - https://en.wikipedia.org/wiki/Mathematical_optimization
+  - https://en.wikipedia.org/wiki/Reactive_programming
 
 # Shell
 - Book
