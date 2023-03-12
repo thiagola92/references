@@ -125,6 +125,12 @@
   - https://en.wikipedia.org/wiki/Mathematical_optimization
   - https://en.wikipedia.org/wiki/Reactive_programming
 
+# Psychological
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Impostor_syndrome
+  - https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+  - https://en.wikipedia.org/wiki/Curse_of_knowledge
+
 # Shell
 - Book
   - https://linuxcommand.org/index.php
