@@ -130,6 +130,14 @@
   - https://en.wikipedia.org/wiki/Mathematical_optimization
   - https://en.wikipedia.org/wiki/Reactive_programming
 
+# Programming style
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Programming_style
+  - https://en.wikipedia.org/wiki/Yoda_conditions
+  - https://en.wikipedia.org/wiki/Naming_convention_(programming)
+  - https://en.wikipedia.org/wiki/Snake_case
+  - https://en.wikipedia.org/wiki/Camel_case
+
 # Psychological
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Impostor_syndrome
