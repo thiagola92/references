@@ -12,8 +12,8 @@ directory = Path("bookmarks")
 def read_bookmarks():
     for file in directory.iterdir():
         text = file.read_text()
-        text = re.sub("^- ", "  - ", text, flags=re.MULTILINE)
-        text = re.sub("^# ", "- ", text, flags=re.MULTILINE)
+        text = re.sub(r"^( *)-( *)", r"\1  -\2", text, flags=re.MULTILINE)
+        text = re.sub(r"^( *)#( *)", r"\1-\2", text, flags=re.MULTILINE)
         lines = [l for l in text.split("\n") if l.strip() != ""]
         bookmarks, _ = read_indentation(lines)
         filename = file.stem
