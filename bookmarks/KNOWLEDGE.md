@@ -18,6 +18,13 @@
 - Youtube
   - https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL
 
+# Anti-pattern
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/God_object
+  - https://en.wikipedia.org/wiki/Yo-yo_problem
+  - https://en.wikipedia.org/wiki/Boat_anchor_(metaphor)
+  - https://en.wikipedia.org/wiki/Law_of_the_instrument
+
 # Architecture
 - Blog
   - http://www.raymundodeoliveira.eng.br/binario.html
