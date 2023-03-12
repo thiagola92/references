@@ -104,6 +104,11 @@
 - Q&A
   - https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/
 
+# Research
+- Rank
+  - https://pypl.github.io/PYPL.html
+  - https://www.tiobe.com/tiobe-index/
+
 # Shell
 - Book
   - https://linuxcommand.org/index.php
