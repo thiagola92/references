@@ -94,6 +94,12 @@
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Graphics_library
 
+# Dark Pattern
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Dark_pattern
+- Blog
+  - https://www.deceptive.design/
+
 # Data Strctures
 - Youtube
   - https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX
