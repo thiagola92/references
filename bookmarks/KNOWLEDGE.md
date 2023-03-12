@@ -2,6 +2,11 @@
 - Book
   - https://www.doradolist.com/universities.html
   - https://github.com/EbookFoundation/free-programming-books
+- Q&A
+  - https://www.reddit.com/r/learnprogramming/
+- Rank
+  - https://pypl.github.io/PYPL.html
+  - https://www.tiobe.com/tiobe-index/
 - Youtube
   - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
@@ -103,11 +108,6 @@
   - https://wiki.osdev.org/Main_Page
 - Q&A
   - https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation/
-
-# Research
-- Rank
-  - https://pypl.github.io/PYPL.html
-  - https://www.tiobe.com/tiobe-index/
 
 # Shell
 - Book
