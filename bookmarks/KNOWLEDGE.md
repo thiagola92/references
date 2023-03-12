@@ -98,6 +98,11 @@
 - Youtube
   - https://www.youtube.com/watch?v=aZjYr87r1b8
 
+# Debugging
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Debugging
+  - https://en.wikipedia.org/wiki/Rubber_duck_debugging
+
 # Game
 - Book
   - https://gameprogrammingpatterns.com/contents.html
