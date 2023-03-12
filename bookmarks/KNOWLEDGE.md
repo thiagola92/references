@@ -4,9 +4,13 @@
   - https://github.com/EbookFoundation/free-programming-books
 - Q&A
   - https://www.reddit.com/r/learnprogramming/
+- Legal
+  - https://www.tldrlegal.com/
 - Rank
   - https://pypl.github.io/PYPL.html
   - https://www.tiobe.com/tiobe-index/
+- Roadmap
+  - https://roadmap.sh/roadmaps
 - Youtube
   - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
