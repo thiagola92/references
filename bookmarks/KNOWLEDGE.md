@@ -37,6 +37,8 @@
   - https://www.youtube.com/@mycodeschool/videos
 
 # Artificial Intelligence
+- Blog
+  - http://nlpprogress.com/
 - Youtube
   - https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
 
