@@ -194,17 +194,24 @@
   - https://en.wikipedia.org/wiki/Virtual_Network_Computing
   - https://en.wikipedia.org/wiki/File_Transfer_Protocol
 
+# Security
+- Blog
+  - https://owasp.org/www-project-top-ten/
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/PKCS
+  - https://en.wikipedia.org/wiki/Type%E2%80%93length%E2%80%93value
+
 # Shell
 - Book
   - https://linuxcommand.org/index.php
 
 # Terminal
-- Encyclopedia
-  - https://en.wikipedia.org/wiki/ANSI_escape_code#CSI_codes
-  - https://en.wikipedia.org/wiki/Pseudoterminal
 - Blog
   - https://jeffkreeftmeijer.com/vim-16-color/
   - https://blog.z3bra.org/2014/01/images-in-terminal.html
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/ANSI_escape_code#CSI_codes
+  - https://en.wikipedia.org/wiki/Pseudoterminal
 
 # Type System
 - Encyclopedia
