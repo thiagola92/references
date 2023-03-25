@@ -226,6 +226,13 @@
   - https://en.wikipedia.org/wiki/ANSI_escape_code#CSI_codes
   - https://en.wikipedia.org/wiki/Pseudoterminal
 
+# Terminology
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Technical_debt
+  - https://en.wikipedia.org/wiki/Code_smell
+  - https://en.wikipedia.org/wiki/Glue_code
+  - https://en.wikipedia.org/wiki/Bus_factor
+
 # Test
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Software_testing
