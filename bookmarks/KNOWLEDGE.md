@@ -198,3 +198,7 @@
   - https://en.wikipedia.org/wiki/Type_system#Static_type_checking
   - https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information
   - https://en.wikipedia.org/wiki/Duck_typing
+
+# Web
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Web_crawler
