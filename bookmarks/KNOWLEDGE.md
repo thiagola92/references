@@ -121,7 +121,6 @@
 # Design Pattern
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Software_design_pattern
-  - https://en.wikipedia.org/wiki/Inversion_of_control
 
 # Exceptions
 - Encyclopedia
