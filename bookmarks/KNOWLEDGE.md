@@ -193,6 +193,13 @@
 - Book
   - https://linuxcommand.org/index.php
 
+# Terminal
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/ANSI_escape_code#CSI_codes
+  - https://en.wikipedia.org/wiki/Pseudoterminal
+- Blog
+  - https://jeffkreeftmeijer.com/vim-16-color/
+
 # Type System
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Type_system#Static_type_checking
