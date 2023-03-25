@@ -95,6 +95,7 @@
 # Computer Graphic
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Graphics_library
+  - https://en.wikipedia.org/wiki/Linux_framebuffer
 
 # Dark Pattern
 - Encyclopedia
