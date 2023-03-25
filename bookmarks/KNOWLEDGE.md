@@ -41,6 +41,7 @@
   - http://nlpprogress.com/
 - Video
   - https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
+  - https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
 # Browser
 - Blog
