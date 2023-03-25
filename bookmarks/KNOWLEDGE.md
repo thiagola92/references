@@ -117,14 +117,10 @@
 - Video
   - https://www.youtube.com/watch?v=aZjYr87r1b8
 
-# Debugging
-- Encyclopedia
-  - https://en.wikipedia.org/wiki/Debugging
-  - https://en.wikipedia.org/wiki/Rubber_duck_debugging
-
 # Design Pattern
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Software_design_pattern
+  - https://en.wikipedia.org/wiki/Dependency_injection
 
 # Emulator
 - Blog
@@ -229,6 +225,12 @@
 - Encyclopedia
   - https://en.wikipedia.org/wiki/ANSI_escape_code#CSI_codes
   - https://en.wikipedia.org/wiki/Pseudoterminal
+
+# Test
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Software_testing
+  - https://en.wikipedia.org/wiki/Debugging
+  - https://en.wikipedia.org/wiki/Rubber_duck_debugging
 
 # Theory of Computation
 - Blog
