@@ -138,6 +138,7 @@
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Open_Sound_Control
   - https://en.wikipedia.org/wiki/MQTT
+  - https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure
 
 # Operating System
 - Encyclopedia
@@ -181,6 +182,12 @@
   - https://en.wikipedia.org/wiki/Impostor_syndrome
   - https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
   - https://en.wikipedia.org/wiki/Curse_of_knowledge
+
+# Remote Control
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Secure_Shell
+  - https://en.wikipedia.org/wiki/Virtual_Network_Computing
+  - https://en.wikipedia.org/wiki/File_Transfer_Protocol
 
 # Shell
 - Book
