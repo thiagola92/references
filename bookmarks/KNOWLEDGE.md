@@ -227,6 +227,25 @@
   - https://en.wikipedia.org/wiki/ANSI_escape_code#CSI_codes
   - https://en.wikipedia.org/wiki/Pseudoterminal
 
+# Theory of Computation
+- Blog
+  - http://web.cecs.pdx.edu/~harry/videos/
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Theory_of_computation
+  - https://en.wikipedia.org/wiki/Regular_grammar
+  - https://en.wikipedia.org/wiki/Finite-state_machine
+  - https://en.wikipedia.org/wiki/Context-free_grammar
+  - https://en.wikipedia.org/wiki/Pushdown_automaton
+  - https://en.wikipedia.org/wiki/Context-sensitive_grammar
+  - https://en.wikipedia.org/wiki/Linear_bounded_automaton
+  - https://en.wikipedia.org/wiki/Recursively_enumerable_language
+  - https://en.wikipedia.org/wiki/Turing_machine
+  - https://en.wikipedia.org/wiki/Deterministic_finite_automaton
+  - https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton
+  - https://en.wikipedia.org/wiki/Chomsky_normal_form
+- Video
+  - https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz
+
 # Type System
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Type_system#Static_type_checking
