@@ -209,5 +209,9 @@
   - https://en.wikipedia.org/wiki/Duck_typing
 
 # Web
+- Doc
+  - https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Web_crawler
+- Video
+  - https://www.youtube.com/watch?v=6KVQSaxBn-Mhttps://www.youtube.com/watch?v=6KVQSaxBn-M
