@@ -125,7 +125,7 @@
 
 # Emulator
 - Blog
- - http://emulator101.com/
+  - http://emulator101.com/
 
 # Exceptions
 - Encyclopedia
