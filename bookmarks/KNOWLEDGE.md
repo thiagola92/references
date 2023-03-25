@@ -145,6 +145,13 @@
   - https://en.wikipedia.org/wiki/MQTT
   - https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure
 
+# Modeling Language
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Modeling_language
+  - https://en.wikipedia.org/wiki/Unified_Modeling_Language
+- Blog
+  - http://www.agilemodeling.com/essays/umlDiagrams.htm
+
 # Operating System
 - Encyclopedia
   - https://wiki.osdev.org/Main_Page
