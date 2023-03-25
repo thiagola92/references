@@ -232,6 +232,11 @@
   - https://en.wikipedia.org/wiki/Code_smell
   - https://en.wikipedia.org/wiki/Glue_code
   - https://en.wikipedia.org/wiki/Bus_factor
+  - https://en.wikipedia.org/wiki/Spaghetti_code
+  - https://en.wikipedia.org/wiki/No_Silver_Bullet
+  - https://en.wikipedia.org/wiki/Dependency_hell
+  - https://en.wikipedia.org/wiki/Not_invented_here
+  - https://en.wikipedia.org/wiki/Scope_creep
 
 # Test
 - Encyclopedia
