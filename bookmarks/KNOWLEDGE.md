@@ -1,4 +1,4 @@
-# \_General\_
+# _General_
 - Book
   - https://www.doradolist.com/universities.html
   - https://github.com/EbookFoundation/free-programming-books
