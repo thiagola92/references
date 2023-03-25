@@ -123,6 +123,10 @@
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Software_design_pattern
 
+# Emulator
+- Blog
+ - http://emulator101.com/
+
 # Exceptions
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Exception_handling
