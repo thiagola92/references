@@ -118,6 +118,19 @@
   - https://en.wikipedia.org/wiki/Debugging
   - https://en.wikipedia.org/wiki/Rubber_duck_debugging
 
+# Design Pattern
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Software_design_pattern
+  - https://en.wikipedia.org/wiki/Inversion_of_control
+
+# Exceptions
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Exception_handling
+  - https://en.wikipedia.org/wiki/Python_syntax_and_semantics#Exceptions
+- Doc
+  - https://docs.python.org/3/glossary.html#term-EAFP
+  - https://docs.python.org/3/glossary.html#term-LBYL
+
 # Game
 - Book
   - https://gameprogrammingpatterns.com/contents.html
@@ -156,11 +169,6 @@
   - https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
   - https://en.wikipedia.org/wiki/Single-responsibility_principle
 
-# todo
-  - https://en.wikipedia.org/wiki/Inversion_of_control
-  - https://en.wikipedia.org/wiki/Python_syntax_and_semantics#Exceptions
-  - https://en.wikipedia.org/wiki/Duck_typing
-
 # Programming style
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Programming_style
@@ -178,3 +186,9 @@
 # Shell
 - Book
   - https://linuxcommand.org/index.php
+
+# Type System
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Type_system#Static_type_checking
+  - https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information
+  - https://en.wikipedia.org/wiki/Duck_typing
