@@ -176,6 +176,16 @@
   - Blog
     - https://code.visualstudio.com/blogs
 
+# Web Crawler
+- Playwright
+  - https://playwright.dev/
+- Puppeteer
+  - https://pptr.dev/
+- Scrapy
+  - https://scrapy.org/
+- Selenium
+  - https://www.selenium.dev/
+
 # Version Control System
 - Git
   - https://git-scm.com/
