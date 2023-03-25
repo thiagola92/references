@@ -39,6 +39,8 @@
 # Artificial Intelligence
 - Blog
   - http://nlpprogress.com/
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Error_metric
 - Video
   - https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
   - https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
