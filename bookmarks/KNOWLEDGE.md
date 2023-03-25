@@ -139,11 +139,11 @@
 - Book
   - https://gameprogrammingpatterns.com/contents.html
 
-# Network
+# Management
 - Encyclopedia
-  - https://en.wikipedia.org/wiki/Open_Sound_Control
-  - https://en.wikipedia.org/wiki/MQTT
-  - https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure
+  - https://en.wikipedia.org/wiki/Requirements_engineering
+  - https://en.wikipedia.org/wiki/Functional_requirement
+  - https://en.wikipedia.org/wiki/Non-functional_requirement
 
 # Modeling Language
 - Encyclopedia
@@ -151,6 +151,12 @@
   - https://en.wikipedia.org/wiki/Unified_Modeling_Language
 - Blog
   - http://www.agilemodeling.com/essays/umlDiagrams.htm
+
+# Network
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/Open_Sound_Control
+  - https://en.wikipedia.org/wiki/MQTT
+  - https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure
 
 # Operating System
 - Encyclopedia
