@@ -145,6 +145,22 @@
   - https://en.wikipedia.org/wiki/Mathematical_optimization
   - https://en.wikipedia.org/wiki/Reactive_programming
 
+# Programming Principles
+- Encyclopedia
+  - https://en.wikipedia.org/wiki/List_of_software_development_philosophies
+  - https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+  - https://en.wikipedia.org/wiki/Bert_Lance#If_it_ain't_broke,_don't_fix_it
+  - https://en.wikipedia.org/wiki/KISS_principle
+  - https://en.wikipedia.org/wiki/Loose_coupling
+  - https://en.wikipedia.org/wiki/Release_early,_release_often
+  - https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+  - https://en.wikipedia.org/wiki/Single-responsibility_principle
+
+# todo
+  - https://en.wikipedia.org/wiki/Inversion_of_control
+  - https://en.wikipedia.org/wiki/Python_syntax_and_semantics#Exceptions
+  - https://en.wikipedia.org/wiki/Duck_typing
+
 # Programming style
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Programming_style
