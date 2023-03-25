@@ -200,6 +200,7 @@
   - https://en.wikipedia.org/wiki/Pseudoterminal
 - Blog
   - https://jeffkreeftmeijer.com/vim-16-color/
+  - https://blog.z3bra.org/2014/01/images-in-terminal.html
 
 # Type System
 - Encyclopedia
