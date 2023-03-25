@@ -163,6 +163,8 @@
 # Remote Control
 - Remmina
   - https://remmina.org/
+- Ansible
+  - https://www.ansible.com/
 
 # Text Editor
 - Micro
