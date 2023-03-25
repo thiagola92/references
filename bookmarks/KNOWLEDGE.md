@@ -11,11 +11,11 @@
   - https://www.tiobe.com/tiobe-index/
 - Roadmap
   - https://roadmap.sh/roadmaps
-- Youtube
+- Video
   - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
 # Algorithms
-- Youtube
+- Video
   - https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL
 
 # Anti-pattern
@@ -32,14 +32,14 @@
   - https://en.wikipedia.org/wiki/IEEE_754-1985
   - https://en.wikipedia.org/wiki/Two%27s_complement
   - https://en.wikipedia.org/wiki/File_descriptor
-- Youtube
+- Video
   - https://www.youtube.com/watch?v=89u1I1a9Qm4
   - https://www.youtube.com/@mycodeschool/videos
 
 # Artificial Intelligence
 - Blog
   - http://nlpprogress.com/
-- Youtube
+- Video
   - https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b
 
 # Browser
@@ -59,7 +59,7 @@
   - https://natureofcode.com/book/introduction/
 - Doc
   - https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection?retiredLocale=kab
-- Youtube
+- Video
   - https://www.youtube.com/watch?v=NZHzgXFKfuY
   - https://www.youtube.com/@codingmath
 
@@ -86,7 +86,7 @@
   - https://en.wikipedia.org/wiki/Ahead-of-time_compilation
 - Paper
   - https://www.inf.ufrgs.br/~johann/comp/lexyacc.pdf
-- Youtube
+- Video
   - https://www.youtube.com/watch?v=QXjU9qTsYCc
   - https://www.youtube.com/watch?v=54bo1qaHAfk
   - https://www.youtube.com/watch?v=Ow7XXOmnNLo
@@ -103,14 +103,14 @@
   - https://www.deceptive.design/
 
 # Data Strctures
-- Youtube
+- Video
   - https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX
 
 # Database
 - Encyclopedia
   - https://en.wikipedia.org/wiki/Isolation_%28database_systems%29
   - https://en.wikipedia.org/wiki/CAP_theorem
-- Youtube
+- Video
   - https://www.youtube.com/watch?v=aZjYr87r1b8
 
 # Debugging
