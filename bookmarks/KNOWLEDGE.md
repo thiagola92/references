@@ -137,6 +137,8 @@
 # Game
 - Book
   - https://gameprogrammingpatterns.com/contents.html
+- Blog
+  - https://kenney.nl/
 
 # Management
 - Encyclopedia
