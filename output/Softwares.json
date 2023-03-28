@@ -438,6 +438,12 @@
       [
         "https://remmina.org/"
       ]
+    ],
+    [
+      "Ansible",
+      [
+        "https://www.ansible.com/"
+      ]
     ]
   ],
   [
@@ -488,6 +494,33 @@
       "VirtualBox",
       [
         "https://www.virtualbox.org/"
+      ]
+    ]
+  ],
+  [
+    "Web Crawler",
+    [
+      "Playwright",
+      [
+        "https://playwright.dev/"
+      ]
+    ],
+    [
+      "Puppeteer",
+      [
+        "https://pptr.dev/"
+      ]
+    ],
+    [
+      "Scrapy",
+      [
+        "https://scrapy.org/"
+      ]
+    ],
+    [
+      "Selenium",
+      [
+        "https://www.selenium.dev/"
       ]
     ]
   ]

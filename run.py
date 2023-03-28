@@ -105,9 +105,9 @@ def indent(text: str, spaces: int) -> str:
 
 def get_title(link: str) -> str:
     print(link)
-    response = requests.get(link)
-
     try:
+        response = requests.get(link)
+
         return (
             Selector(text=response.text)
             .xpath("//title/text()")
