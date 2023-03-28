@@ -5,6 +5,7 @@ from urllib.parse import urlparse
 
 import requests
 from parsel import Selector
+from requests import Response
 
 directory = Path("bookmarks")
 
@@ -106,7 +107,8 @@ def indent(text: str, spaces: int) -> str:
 def get_title(link: str) -> str:
     print(link)
     try:
-        response = requests.get(link)
+        response: Response = requests.get(link)
+        response.raise_for_status()
 
         return (
             Selector(text=response.text)
