@@ -112,6 +112,7 @@ def get_title(link: str) -> str:
             Selector(text=response.text)
             .xpath("//title/text()")
             .get(urlparse(link).hostname)
+            .replace("\n", " ")
         )
     except Exception as e:
         print(e)
