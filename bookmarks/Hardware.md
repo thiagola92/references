@@ -1,3 +1,7 @@
+# Display
+- Encyclopedia
+    - https://en.wikipedia.org/wiki/Display_resolution
+
 # Graphic Card
 - Blog
     - http://blog.logicalincrements.com/2014/06/graphics-cards-what-do-the-numbers-mean/
