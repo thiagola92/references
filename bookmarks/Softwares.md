@@ -83,6 +83,7 @@
 # Desktop Environment
 - Gnome
   - https://www.gnome.org/
+  - https://apps.gnome.org/
   - Blog
     - https://thisweek.gnome.org/
 
