@@ -52,7 +52,7 @@ def read_indentation(
         line_indentation = get_indentation(line)
 
         raise_error_on_wrong_indentation(
-            line_indentation, current_indentation, INDENTATION
+            line_indentation, current_indentation, INDENTATION, line
         )
 
         if line_indentation > current_indentation:

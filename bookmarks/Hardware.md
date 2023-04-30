@@ -1,6 +1,6 @@
 # Display
 - Encyclopedia
-    - https://en.wikipedia.org/wiki/Display_resolution
+  - https://en.wikipedia.org/wiki/Display_resolution
 
 # Graphic Card
 - Blog
