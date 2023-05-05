@@ -82,8 +82,6 @@
   - https://en.wikipedia.org/wiki/Flex_(lexical_analyser_generator)
   - https://en.wikipedia.org/wiki/GNU_Bison
   - https://en.wikipedia.org/wiki/Order_of_operations#Programming_languages
-  - https://en.wikipedia.org/wiki/Parsing_expression_grammar
-  - https://en.wikipedia.org/wiki/Context-free_grammar
   - https://en.wikipedia.org/wiki/Compiler
   - https://en.wikipedia.org/wiki/Just-in-time_compilation
   - https://en.wikipedia.org/wiki/Ahead-of-time_compilation
@@ -254,6 +252,7 @@
   - https://en.wikipedia.org/wiki/Regular_grammar
   - https://en.wikipedia.org/wiki/Finite-state_machine
   - https://en.wikipedia.org/wiki/Context-free_grammar
+  - https://en.wikipedia.org/wiki/Parsing_expression_grammar
   - https://en.wikipedia.org/wiki/Pushdown_automaton
   - https://en.wikipedia.org/wiki/Context-sensitive_grammar
   - https://en.wikipedia.org/wiki/Linear_bounded_automaton
