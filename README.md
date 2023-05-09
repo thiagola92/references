@@ -5,6 +5,7 @@ Repositório com diversas listas de referências. Observações:
   - Sim, eu organizava em pastas o máximo possível mas mesmo assim estava grande.
 
 # lists
+- [Hardware](bookmarks/Hardware.md)
 - [Knowledge](bookmarks/Knowledge.md)
   - Materiais de estudo
 - [Softwares](bookmarks/Softwares.md)
