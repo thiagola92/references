@@ -6,8 +6,9 @@ Repositório com diversas listas de referências. Observações:
 
 # lists
 - [Hardware](bookmarks/Hardware.md)
+  - Matérias de estudo sobre **hardware**
 - [Knowledge](bookmarks/Knowledge.md)
-  - Materiais de estudo
+  - Materiais de estudo sobre **softwares**
 - [Softwares](bookmarks/Softwares.md)
   - Qualquer software que possa ser baixado e executado localmente
 - [Services](bookmarks/Services.md)
