@@ -71,6 +71,8 @@
 # Version Control System
 - BitBucket
   - https://bitbucket.org/product
+- Codeberg
+  - https://codeberg.org/
 - GitHub
   - https://github.com/
   - Blog
