@@ -1,4 +1,8 @@
 # references
+Esse repositório apenas existiu para me ajudar a organizar meus favoritos de computação em diversos arquivos markdown.  
+Já que isto foi finalizado, este repositório está sendo arquivado.  
+
+## observations
 Repositório com diversas listas de referências. Observações:
 - Não são listas referências globais, são apenas listas de referências que me interessam dentro de um determinado assunto.
 - Os favoritos do meu navegador estava ficando grande então criei estas listas para organizar as informações.
